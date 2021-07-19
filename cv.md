@@ -2,6 +2,7 @@
 ### Contacts 
 * +375(33)6667503
 * narkevichmargo@gmail.com
+* https://github.com/MargaritkaN
 ### My goals
 Learn a new profession and get a job as frontend dev.
 ### My skils
@@ -13,6 +14,6 @@ Learn a new profession and get a job as frontend dev.
 * 2020: online-courses Unschooler (html/css)
 * 2021: online-courses WayUp (Javascript.Погружение)
 ### Experience 
-https://github.com/MargaritkaN/Unschooler.git
+ https://github.com/MargaritkaN/Unschooler.git
 ### English
 A1
